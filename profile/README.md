@@ -1,4 +1,4 @@
-# Vultr Free Trial 2026: $300 Credit, Honest Breakdown
+# Vultr Free Trial 2026: $300 Credit for registrations
 
 Vultr's free trial gives new users up to $300 in cloud credits and 30 days to test the platform properly. No stripped-down demo. No artificial feature limits. The same infrastructure that paying customers run production workloads on.
 
