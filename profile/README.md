@@ -186,5 +186,3 @@ No. The promotional credit is for new accounts only. A separate email address is
 Vultr's trial credit is higher ($300 vs $200 and $100 respectively). Its data center footprint is broader (32 locations vs DigitalOcean's 14). Pricing at the entry level is comparable across all three. The right choice depends on which regions and instance types your use case requires.
 
 ---
-
-*Disclosure: This article contains affiliate links. I may earn a commission if you sign up through a link on this page, at no extra cost to you. Offer details, credit amounts, and terms are subject to change. Verify directly with Vultr before signing up.*
